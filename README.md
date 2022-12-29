@@ -1,5 +1,7 @@
 - The database here mainly serves as an archive.
 
+- I contain several Gephi tutorials in case anybody need. Very helpful to me!
+
 - The database could be divided into this three sub-database. 
      - Top 10 shareholders 
 
