@@ -1,0 +1,271 @@
+Source,Target,LiShu,Weight,Category,Date
+Blaving,Ear,sound,1,LJ,2012/9/26
+Blaving,Headset,sound,1,LJ,2012/9/20
+Blogger,Bloglines,RSS,1,LJ,2012/9/20
+Blogger,Eye,text,1,LJ,2012/10/1
+Blogger,Feedburner,RSS,1,LJ,2012/9/19
+Blogger,Feedburner,RSS,1,LJ,2012/9/20
+Blogger,Google Reader,RSS,1,LJ,2012/9/19
+Blogger,IFTTT,RSS,1,LJ,2012/9/20
+Blogger,Netvibes,RSS,1,LJ,2012/9/20
+Blogger,Yahoo Pipes,RSS,1,LJ,2012/9/19
+Blogger,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Brain,Hand,Human,1,CP,2012/9/25
+Delicious,Bloglines,RSS,1,LJ,2012/9/20
+Delicious,Feedburner,RSS,1,LJ,2012/9/20
+Delicious,Feedburner,RSS,1,LJ,2012/9/20
+Delicious,Google Reader,RSS,1,LJ,2012/9/20
+Delicious,IFTTT,RSS,1,LJ,2012/9/20
+Delicious,Netvibes,api,1,LJ,2012/9/20
+Delicious,Netvibes,RSS,1,LJ,2012/9/20
+Delicious,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Delicious,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Diigo,Bloglines,RSS,1,LJ,2012/9/20
+Diigo,Feedburner,RSS,1,LJ,2012/9/20
+Diigo,Feedburner,RSS,1,LJ,2012/9/20
+Diigo,Google Reader,RSS,1,LJ,2012/9/20
+Diigo,IFTTT,RSS,1,LJ,2012/9/20
+Diigo,Netvibes,RSS,1,LJ,2012/9/20
+Diigo,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Diigo,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Ear,Brain,Human,1,CP,2012/9/24
+Eye,Brain,Human,1,CP,2012/9/23
+Facebook,Netvibes,api,1,LJ,2012/9/20
+Facebook.Co,Facebook,Facebook.Co,1.2,CP,2012/9/20
+Facebook.Co,Instagram,Facebook.Co,1.2,CP,2012/9/20
+Feedburner,Bloglines,RSS,1,LJ,2012/9/20
+Feedburner,Google Reader,RSS,1,LJ,2012/9/19
+Feedburner,IFTTT,RSS,1,LJ,2012/9/20
+Feedburner,Netvibes,RSS,1,LJ,2012/9/20
+Feedburner,Yahoo Pipes,RSS,1,LJ,2012/9/19
+Feedburner,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Feedmailer,Blogger,Email,1,LJ,2012/9/20
+Feedmailer,Flickr,Email,1,LJ,2012/9/20
+Feedmailer,Google Gmail,Email,1,LJ,2012/9/20
+Feedmailer,Google Groups,Email,1,LJ,2012/9/20
+Feedmailer,Google Plus,Email,1,LJ,2012/9/20
+Feedmailer,Hotmail,Email,1,LJ,2012/9/20
+Feedmailer,IFTTT,Email,1,LJ,2012/9/20
+Feedmailer,Netvibes,Email,1,LJ,2012/9/20
+Feedmailer,Yahoo Pipes,Email,1,LJ,2012/9/20
+Feedmailer,Tumbrr,Email,1,LJ,2012/9/20
+Feedmailer,Yahoo Mail,Email,1,LJ,2012/9/20
+Feedmailer,Yahoo Pipes,Email,1,LJ,2012/9/20
+Flickr,Bloglines,RSS,1,LJ,2012/9/20
+Flickr,Eye,text,1,LJ,2012/10/2
+Flickr,Feedburner,RSS,1,LJ,2012/9/19
+Flickr,Feedburner,RSS,1,LJ,2012/9/20
+Flickr,Google Gmail,api,1,LJ,2012/9/19
+Flickr,Google Reader,RSS,1,LJ,2012/9/19
+Flickr,IFTTT,RSS,1,LJ,2012/9/20
+Flickr,Netvibes,api,1,LJ,2012/9/20
+Flickr,Netvibes,RSS,1,LJ,2012/9/20
+Flickr,Yahoo Pipes,RSS,1,LJ,2012/9/19
+Flickr,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Foursquare,Facebook,api,1,LJ,2012/9/20
+Foursquare,Twitter,api,1,LJ,2012/9/20
+Google,Blogger,Google,1.2,CP,2012/9/19
+Google,Feedburner,Google,1.2,CP,2012/9/19
+Google,Google Alerts,Google,1.2,CP,2012/9/20
+Google,Google Blogsearch,Google,1.2,CP,2012/9/19
+Google,Google Gmail,Google,1.2,CP,2012/9/19
+Google,Google Groups,Google,1.2,CP,2012/9/20
+Google,Google Plus,Google,1.2,CP,2012/9/19
+Google,Google Reader,Google,1.2,CP,2012/9/19
+Google,Google Talk,Google,1.2,CP,2012/9/20
+Google,YouTube,Google,1.2,CP,2012/9/20
+Google Alerts,Blogger,Email,1,LJ,2012/9/19
+Google Alerts,Bloglines,RSS,1,LJ,2012/9/20
+Google Alerts,Feedburner,RSS,1,LJ,2012/9/19
+Google Alerts,Feedburner,RSS,1,LJ,2012/9/20
+Google Alerts,Flickr,Email,1,LJ,2012/9/19
+Google Alerts,Google Gmail,Email,1,LJ,2012/9/19
+Google Alerts,Google Groups,Email,1,LJ,2012/9/19
+Google Alerts,Google Plus,Email,1,LJ,2012/9/19
+Google Alerts,Google Reader,RSS,1,LJ,2012/9/19
+Google Alerts,Hotmail,Email,1,LJ,2012/9/20
+Google Alerts,IFTTT,Email,1,LJ,2012/9/20
+Google Alerts,IFTTT,RSS,1,LJ,2012/9/20
+Google Alerts,Netvibes,Email,1,LJ,2012/9/20
+Google Alerts,Netvibes,RSS,1,LJ,2012/9/20
+Google Alerts,Yahoo Pipes,Email,1,LJ,2012/9/19
+Google Alerts,Yahoo Pipes,RSS,1,LJ,2012/9/19
+Google Alerts,Tumbrr,Email,1,LJ,2012/9/20
+Google Alerts,Yahoo Mail,Email,1,LJ,2012/9/19
+Google Alerts,Yahoo Pipes,Email,1,LJ,2012/9/20
+Google Alerts,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Google Blogsearch,Bloglines,RSS,1,LJ,2012/9/20
+Google Blogsearch,Feedburner,RSS,1,LJ,2012/9/19
+Google Blogsearch,Feedburner,RSS,1,LJ,2012/9/20
+Google Blogsearch,Google Reader,RSS,1,LJ,2012/9/19
+Google Blogsearch,IFTTT,RSS,1,LJ,2012/9/20
+Google Blogsearch,Netvibes,RSS,1,LJ,2012/9/20
+Google Blogsearch,Yahoo Pipes,RSS,1,LJ,2012/9/19
+Google Blogsearch,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Google Gmail,Blogger,Email,1,LJ,2012/9/19
+Google Gmail,Eye,text,1,LJ,2012/9/30
+Google Gmail,Flickr,Email,1,LJ,2012/9/19
+Google Gmail,Google Groups,Email,1,LJ,2012/9/19
+Google Gmail,Google Plus,Email,1,LJ,2012/9/19
+Google Gmail,Hotmail,Email,1,LJ,2012/9/20
+Google Gmail,IFTTT,Email,1,LJ,2012/9/20
+Google Gmail,Netvibes,Email,1,LJ,2012/9/20
+Google Gmail,Yahoo Pipes,Email,1,LJ,2012/9/19
+Google Gmail,Tumbrr,Email,1,LJ,2012/9/20
+Google Gmail,Yahoo Mail,Email,1,LJ,2012/9/19
+Google Gmail,Yahoo Pipes,Email,1,LJ,2012/9/20
+Google Groups,Blogger,Email,1,LJ,2012/9/19
+Google Groups,Flickr,Email,1,LJ,2012/9/19
+Google Groups,Google Gmail,Email,1,LJ,2012/9/19
+Google Groups,Google Plus,Email,1,LJ,2012/9/19
+Google Groups,Hotmail,Email,1,LJ,2012/9/20
+Google Groups,IFTTT,Email,1,LJ,2012/9/20
+Google Groups,Netvibes,Email,1,LJ,2012/9/20
+Google Groups,Yahoo Pipes,Email,1,LJ,2012/9/19
+Google Groups,Tumbrr,Email,1,LJ,2012/9/20
+Google Groups,Yahoo Mail,Email,1,LJ,2012/9/19
+Google Groups,Yahoo Pipes,Email,1,LJ,2012/9/20
+Google Plus,Orkut,api,1,LJ,2012/9/20
+Google Reader,Bloglines,RSS,1,LJ,2012/9/20
+Google Reader,Feedburner,RSS,1,LJ,2012/9/19
+Google Reader,Feedburner,RSS,1,LJ,2012/9/20
+Google Reader,IFTTT,RSS,1,LJ,2012/9/20
+Google Reader,Netvibes,RSS,1,LJ,2012/9/20
+Google Reader,Yahoo Pipes,RSS,1,LJ,2012/9/19
+Google Reader,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Google Talk,Pidgin,im,1,LJ,2012/9/20
+Hand,Blogger,text,1,LJ,2012/10/3
+Hand,Google Gmail,text,1,LJ,2012/10/5
+Hand,Hotmail,text,1,LJ,2012/10/4
+Hand,Yahoo Mail,text,1,LJ,2012/10/6
+Hotmail,Blogger,Email,1,LJ,2012/9/20
+Hotmail,Eye,text,1,LJ,2012/9/29
+Hotmail,Flickr,Email,1,LJ,2012/9/20
+Hotmail,Google Gmail,Email,1,LJ,2012/9/20
+Hotmail,Google Groups,Email,1,LJ,2012/9/20
+Hotmail,Google Plus,Email,1,LJ,2012/9/20
+Hotmail,IFTTT,Email,1,LJ,2012/9/20
+Hotmail,Netvibes,Email,1,LJ,2012/9/20
+Hotmail,Yahoo Pipes,Email,1,LJ,2012/9/20
+Hotmail,Tumbrr,Email,1,LJ,2012/9/20
+Hotmail,Yahoo Mail,Email,1,LJ,2012/9/20
+Hotmail,Yahoo Pipes,Email,1,LJ,2012/9/20
+IFTTT,Blogger,Email,1,LJ,2012/9/20
+IFTTT,Bloglines,RSS,1,LJ,2012/9/20
+IFTTT,Feedburner,RSS,1,LJ,2012/9/20
+IFTTT,Feedburner,RSS,1,LJ,2012/9/20
+IFTTT,Flickr,Email,1,LJ,2012/9/20
+IFTTT,Google Gmail,Email,1,LJ,2012/9/20
+IFTTT,Google Groups,Email,1,LJ,2012/9/20
+IFTTT,Google Plus,Email,1,LJ,2012/9/20
+IFTTT,Google Reader,RSS,1,LJ,2012/9/20
+IFTTT,Hotmail,Email,1,LJ,2012/9/20
+IFTTT,Netvibes,Email,1,LJ,2012/9/20
+IFTTT,Netvibes,RSS,1,LJ,2012/9/20
+IFTTT,Phone,sms,1,LJ,2012/9/20
+IFTTT,Yahoo Pipes,Email,1,LJ,2012/9/20
+IFTTT,Yahoo Pipes,RSS,1,LJ,2012/9/20
+IFTTT,Tumbrr,Email,1,LJ,2012/9/20
+IFTTT,WeMo Switch,API,2,LJ,2012/9/21
+IFTTT,Yahoo Mail,Email,1,LJ,2012/9/20
+IFTTT,Yahoo Pipes,Email,1,LJ,2012/9/20
+IFTTT,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Insidemessenger,Msn,api,1,LJ,2012/9/20
+Instagram,Facebook,api,1,LJ,2012/9/20
+Instagram,Twitter,api,1,LJ,2012/9/20
+Microsoft,Hotmail,Microsoft,1.2,CP,2012/9/20
+Microsoft,Msn,Microsoft,1.2,CP,2012/9/20
+Microsoft,Skype,Microsoft,1.2,CP,2012/9/20
+Microsoft,Yammer,Microsoft,1.2,CP,2012/9/20
+Msn,Pidgin,im,1,LJ,2012/9/20
+MySpace,Netvibes,api,1,LJ,2012/9/20
+Phone,IFTTT,sms,1,LJ,2012/9/20
+Phone,Skype,sms,1,LJ,2012/9/20
+Pidgin,Google Talk,im,1,LJ,2012/9/20
+Pinterest,Facebook,api,1,LJ,2012/9/20
+Pinterest,Twitter,api,1,LJ,2012/9/20
+Skype,Phone,sound,1,LJ,2012/9/20
+Tumbrr,Bloglines,RSS,1,LJ,2012/9/20
+Tumbrr,Feedburner,RSS,1,LJ,2012/9/20
+Tumbrr,Feedburner,RSS,1,LJ,2012/9/20
+Tumbrr,Google Reader,RSS,1,LJ,2012/9/20
+Tumbrr,IFTTT,RSS,1,LJ,2012/9/20
+Tumbrr,Netvibes,RSS,1,LJ,2012/9/20
+Tumbrr,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Tumbrr,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Twitter,Netvibes,api,1,LJ,2012/9/20
+Twitter,Stocktwits,api,1,LJ,2012/9/20
+V2EX,Twitter,api,1,LJ,2012/9/20
+WeMo Motion,IFTTT,电路,5,LJ,2012/9/24
+WeMo Switch,灯泡,电路,3,LJ,2012/9/22
+WordPress,Bloglines,RSS,1,LJ,2012/9/20
+WordPress,Feedburner,RSS,1,LJ,2012/9/20
+WordPress,Feedburner,RSS,1,LJ,2012/9/20
+WordPress,Google Reader,RSS,1,LJ,2012/9/20
+WordPress,IFTTT,RSS,1,LJ,2012/9/20
+WordPress,Netvibes,RSS,1,LJ,2012/9/20
+WordPress,Yahoo Pipes,RSS,1,LJ,2012/9/20
+WordPress,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Yahoo,Flickr,Yahoo,1.2,CP,2012/9/19
+Yahoo,Yahoo Pipes,Yahoo,1.2,CP,2012/9/19
+Yahoo,Yahoo Mail,Yahoo,1.2,CP,2012/9/19
+Yahoo,Yahoo Pipes,Yahoo,1.2,CP,2012/9/20
+Yahoo Mail,Blogger,Email,1,LJ,2012/9/19
+Yahoo Mail,Eye,text,1,LJ,2012/9/27
+Yahoo Mail,Flickr,Email,1,LJ,2012/9/19
+Yahoo Mail,Google Gmail,Email,1,LJ,2012/9/19
+Yahoo Mail,Google Groups,Email,1,LJ,2012/9/19
+Yahoo Mail,Google Plus,Email,1,LJ,2012/9/19
+Yahoo Mail,Hotmail,Email,1,LJ,2012/9/20
+Yahoo Mail,IFTTT,Email,1,LJ,2012/9/20
+Yahoo Mail,Netvibes,Email,1,LJ,2012/9/20
+Yahoo Mail,Yahoo Pipes,Email,1,LJ,2012/9/19
+Yahoo Mail,Tumbrr,Email,1,LJ,2012/9/20
+Yahoo Mail,Yahoo Pipes,Email,1,LJ,2012/9/20
+Yahoo Pipes,Blogger,Email,1,LJ,2012/9/19
+Yahoo Pipes,Blogger,Email,1,LJ,2012/9/20
+Yahoo Pipes,Bloglines,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Bloglines,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Feedburner,RSS,1,LJ,2012/9/19
+Yahoo Pipes,Feedburner,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Feedburner,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Feedburner,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Flickr,Email,1,LJ,2012/9/19
+Yahoo Pipes,Flickr,Email,1,LJ,2012/9/20
+Yahoo Pipes,Google Gmail,Email,1,LJ,2012/9/19
+Yahoo Pipes,Google Gmail,Email,1,LJ,2012/9/20
+Yahoo Pipes,Google Groups,Email,1,LJ,2012/9/19
+Yahoo Pipes,Google Groups,Email,1,LJ,2012/9/20
+Yahoo Pipes,Google Plus,Email,1,LJ,2012/9/19
+Yahoo Pipes,Google Plus,Email,1,LJ,2012/9/20
+Yahoo Pipes,Google Reader,RSS,1,LJ,2012/9/19
+Yahoo Pipes,Google Reader,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Hotmail,Email,1,LJ,2012/9/20
+Yahoo Pipes,Hotmail,Email,1,LJ,2012/9/20
+Yahoo Pipes,IFTTT,Email,1,LJ,2012/9/20
+Yahoo Pipes,IFTTT,RSS,1,LJ,2012/9/20
+Yahoo Pipes,IFTTT,Email,1,LJ,2012/9/20
+Yahoo Pipes,IFTTT,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Netvibes,Email,1,LJ,2012/9/20
+Yahoo Pipes,Netvibes,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Netvibes,Email,1,LJ,2012/9/20
+Yahoo Pipes,Netvibes,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Yahoo Pipes,Email,1,LJ,2012/9/20
+Yahoo Pipes,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Yahoo Pipes,Tumbrr,Email,1,LJ,2012/9/20
+Yahoo Pipes,Tumbrr,Email,1,LJ,2012/9/20
+Yahoo Pipes,Yahoo Mail,Email,1,LJ,2012/9/19
+Yahoo Pipes,Yahoo Mail,Email,1,LJ,2012/9/20
+Yahoo Pipes,Yahoo Pipes,Email,1,LJ,2012/9/20
+Yahoo Pipes,Yahoo Pipes,RSS,1,LJ,2012/9/20
+Yammer,Twitter,api,1,LJ,2012/9/20
+YouTube,Bloglines,RSS,1,LJ,2012/9/20
+YouTube,Eye,text,1,LJ,2012/9/28
+YouTube,Feedburner,RSS,1,LJ,2012/9/20
+YouTube,Feedburner,RSS,1,LJ,2012/9/20
+YouTube,Google Reader,RSS,1,LJ,2012/9/20
+YouTube,IFTTT,RSS,1,LJ,2012/9/20
+YouTube,Netvibes,RSS,1,LJ,2012/9/20
+YouTube,Yahoo Pipes,RSS,1,LJ,2012/9/20
+YouTube,Yahoo Pipes,RSS,1,LJ,2012/9/20
+传感器,WeMo Motion,电路,4,LJ,2012/9/23
